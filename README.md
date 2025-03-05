@@ -4,6 +4,11 @@
 
 This project implements a deep learning approach to classify leukemia blast cells from microscopic images. The system uses multiple convolutional neural network architectures to detect Acute Lymphoblastic Leukemia (ALL) from blood cell images with high accuracy.
 
+## Live Demo
+
+A working demo of this application can be accessed at: [https://huggingface.co/spaces/SanjayChoodamani/CNN](https://huggingface.co/spaces/SanjayChoodamani/CNN)
+
+
 ## Features
 
 - **Multi-model implementation**: Utilizes 5 state-of-the-art deep learning models:
@@ -20,7 +25,6 @@ This project implements a deep learning approach to classify leukemia blast cell
 
 The project uses the Acute Lymphoblastic Leukemia Image Database (ALL-IDB):
 - **ALL-IDB1**: Contains microscopic images with blast and normal cells
-- **ALL-IDB2**: Contains cropped and isolated cell images
 
 ## Technical Implementation
 
@@ -48,9 +52,6 @@ The project includes a graphical user interface that allows users to:
 - View classification results with confidence scores
 - Process multiple images in batches
 
-## Live Demo
-
-A working demo of this application can be accessed at: [https://huggingface.co/spaces/SanjayChoodamani/CNN](https://huggingface.co/spaces/SanjayChoodamani/CNN)
 
 ## About Acute Lymphoblastic Leukemia (ALL)
 
